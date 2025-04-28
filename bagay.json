@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Japheth Bagay",
+      "email": "japheth.Bagay@example.com",
+      "phone": "+1234567890",
+      "address": {
+        "street": "123 Main St",
+        "city": "Somewhere",
+        "state": "CA",
+        "zip": "90000"
+      },
+      "company": {
+        "name": "Example Corp",
+        "position": "Software Engineer",
+        "department": "Engineering"
+      }
+    },
+    {
+      "name": "Lester Bronia",
+      "email": "bronia.lester@example.com",
+      "phone": "+0987654321",
+      "address": {
+        "street": "456 Oak St",
+        "city": "Anywhere",
+        "state": "TX",
+        "zip": "75001"
+      },
+      "company": {
+        "name": "Tech Innovations",
+        "position": "Product Manager",
+        "department": "Product"
+      }
+    }
+  ]
+  
